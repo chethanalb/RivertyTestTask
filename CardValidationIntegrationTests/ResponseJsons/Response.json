@@ -1,0 +1,73 @@
+{
+  "ValidVisa": "10",
+  "ValidMaster": "20",
+  "ValidAmex": "30",
+  "Null": {
+    "Cvv": [
+      "Cvv is required"
+    ],
+    "Date": [
+      "Date is required"
+    ],
+    "Owner": [
+      "Owner is required"
+    ],
+    "Number": [
+      "Number is required"
+    ]
+  },
+  "Invalid": {
+    "Cvv": [
+      "Wrong cvv"
+    ],
+    "Date": [
+      "Wrong date"
+    ],
+    "Owner": [
+      "Wrong owner"
+    ],
+    "Number": [
+      "Wrong number"
+    ]
+  },
+  "NullOwner": {
+    "Owner": [
+      "Owner is required"
+    ]
+  },
+  "NullNumber": {
+    "Number": [
+      "Number is required"
+    ]
+  },
+  "NullDate": {
+    "Date": [
+      "Date is required"
+    ]
+  },
+  "NullCvv": {
+    "Cvv": [
+      "Cvv is required"
+    ]
+  },
+  "WrongOwner": {
+    "Owner": [
+      "Wrong owner"
+    ]
+  },
+  "WrongNumber": {
+    "Number": [
+      "Wrong number"
+    ]
+  },
+  "WrongDate": {
+    "Date": [
+      "Wrong date"
+    ]
+  },
+  "WrongCvv": {
+    "Cvv": [
+      "Wrong cvv"
+    ]
+  }
+}
