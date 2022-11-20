@@ -34,12 +34,8 @@
 
 **Steps to setup and run in IDE (Jetbrains Rider on Mac)**
 
-- Clone the repository using clone URL
-
-  ![enter image description here](https://i.postimg.cc/kGzL6Fs5/Clone-url.png)
-
+- Clone the repository to local machine using clone URL
   
-
 - Import the project in to Rider
 
 ![enter image description here](https://i.postimg.cc/9F6Z18QB/Open-project-new.png)
