@@ -6,3 +6,5 @@ WORKDIR /usr/src/app
 Run dotnet dev-certs https --trust
 
 COPY . .
+
+#commented 1
